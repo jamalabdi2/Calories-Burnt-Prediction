@@ -1,4 +1,4 @@
-  #Calories Burnt Prediction
+   #Calories Burnt Prediction
 This project aims to predict the amount of calories burnt during physical activity based on various factors such as the user's gender, height, weight, and the type of activity performed. 
 The project uses machine learning algorithms and data visualization techniques to achieve this goal.
 
